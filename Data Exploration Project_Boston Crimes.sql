@@ -1,6 +1,6 @@
 /*
 Data Exploration in Boston_Crimes dataset: 
-This dataset contains basic information about the crime instances that occurred during 2015-2018 at Boston. However, only data from Jan to Sep 2018 would be filtered out in this project.
+This dataset contains basic information about the crime instances that occurred during 2015-2018 in Boston. However, only data from Jan to Sep 2018 was filtered for analysis in this project.
 
 Skills used: Converting Data Types, Windows Functions, Aggregate Functions, Joins, CTE's, Temp Tables
 
