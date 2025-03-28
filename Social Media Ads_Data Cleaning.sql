@@ -132,9 +132,9 @@ Percentiles AS (
 Select Clicks
 From SocialMediaAds.social_media_advertising
 Where Clicks < (Select Q1 - 1.5 * (Q3-Q1) From Percentiles) 
-   OR Clicks > (Select Q3 + 1.5 * (Q3-Q1) From Percentiles);
+   OR Clicks > (Select Q3 + 1.5 * (Q3-Q1) From Percentiles); -- IQR = Q3-Q1
 
--- Add calculated fields if necessary. Filter out unneccessary data
+-- Add calculated fields if necessary. Filter out unnecessary data
 
 ALTER TABLE SocialMediaAds.social_media_advertising
 ADD CTR double;
