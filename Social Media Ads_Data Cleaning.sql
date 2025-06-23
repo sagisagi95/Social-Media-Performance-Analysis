@@ -1,16 +1,7 @@
 /*
-Dataset source: https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset/data
-
 Dataset Description:
 This dataset is a comprehensive collection of data related to various social media advertising campaigns. It includes information such as ad impressions, clicks, spend, demographic targeting, and conversion rates. The dataset encompasses multiple social media platforms such as Facebook, Instagram, Pinterest, and Twitter, providing a diverse range of advertising campaign data.
 In this project, only data filtered by a specific company (e.g Cozy Corners, "Home" category) would be gathered for a consistent analysis.
-
-Request for Data Analysis:
-1. Campaign Performance Analysis: Analyze the performance of advertising campaigns across different social media platforms to identify the most effective channels and strategies.
-2. Audience Segmentation: Utilize demographic targeting data to segment the audience and tailor advertising campaigns to specific demographic groups.
-3. Identify actionable insights and optimization opportunities.
-
-NOTE: This is a fictional database.
 
 Skills used: Converting Data Types, CTE's, Windows Functions, Aggregate Functions
 
