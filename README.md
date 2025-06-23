@@ -50,25 +50,25 @@ The analysis covers:
 ---
 
 ## Key insights
-1. Channel Performance
+**1. Channel Performance**
 - Instagram and Twitter are top performers: low CPA + high ROI
 - Pinterest underperformed across all metrics (lowest CTR, Conversion Rate, and ROI, with the highest cost) → inefficient channel
 - Facebook is volume-heavy, but less efficient than expected (moderate ROI)
 → consider reallocating budget to high-performing platforms: Instagram, Twitter
 
-2. Campaign Goals
+**2. Campaign Goals**
 - Average CTRs across all goals are very close, suggesting creative/goal type has little impact on CTR
 - Campaigns focused on Brand Awareness and Increase Sales had low Conversion Rate, while trategic goals like Product Launch and Market Expansion converted better despite lower CTR → high conversion quality
 
-3. Audience Analysis
+**3. Audience Analysis**
 - All age groups respond similarly in volume of clicks (35-44 had the highest, followed by 18-24), but Instagram drives the most meaningful engagement with higher engagement score — strong choice for Gen Z and Millennials
 → Suggests that better segmentation / audience targeting may improve performance
 
-4. Seasonal pattern:
+**4. Seasonal pattern:**
 - Click activity peaks mid-week (Wed-Thu) and weekend (Sat-Sun) → User engagement is strongest 
 - There may be a seasonal lift in spring, early summer and the end of year, could possibly considered for seasonal promotions
 
-5. Advertising Effectiveness by Revenue and ROAS
+**5. Advertising Effectiveness**
 - Channels like Twitter and Instagram drive superior ROAS and revenue
 - Pinterest is not cost-effective → suggests reallocating budget
 - Top 3 high-revenue cities: Los Angeles, Miami and Las Vegas
