@@ -5,6 +5,8 @@
 
 This project analyzes a rich dataset of social media advertising campaigns collected across platforms like Facebook, Instagram, Twitter, and Pinterest. It aims to evaluate the effectiveness of advertising campaigns based on metrics such as impressions, clicks, engagement, conversion rate, ROI, and more.
 
+This project focuses exclusively on the Cozy Corner (Home category) to ensure consistency and analytical relevance.
+
 The analysis covers:
 - Campaign performance by channel and goal
 - Audience engagement by age, gender, and platforms
@@ -15,8 +17,9 @@ The analysis covers:
 
 ## 📁 Dataset Overview
 
-**Name:** Social Media Advertising Dataset  
-**Scope:** Cross-channel campaign data from multiple social platforms  
+**Name:** Social Media Advertising Dataset
+**Link:** https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset/data
+**Scope:** Cross-channel campaign data from multiple social platforms 
 **Format:** Cleaned via SQL, visualized via Tableau
 
 ## Table Schema
