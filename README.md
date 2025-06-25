@@ -17,10 +17,10 @@ The analysis covers:
 
 ## 📁 Dataset Overview
 
-**Name:** Social Media Advertising Dataset
-**Link:** https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset/data
-**Scope:** Cross-channel campaign data from multiple social platforms 
-**Format:** Cleaned via SQL, visualized via Tableau
+- **Name:** Social Media Advertising Dataset
+- **Link:** https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset/data
+- **Scope:** Cross-channel campaign data from multiple social platforms 
+- **Format:** Cleaned via SQL, visualized via Tableau
 
 ## Table Schema
 
