@@ -1,5 +1,5 @@
 
-# 📊 Social Media Advertising Campaign Analysis
+# [SQL,Tableau] Social Media Advertising Campaign Analysis
 
 ## 📝 Project Summary
 
@@ -15,7 +15,7 @@ The analysis covers:
 
 ---
 
-## 📁 Dataset Overview
+## 📊 Dataset Overview
 
 - **Name:** Social Media Advertising Dataset
 - **Link:** https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset/data
