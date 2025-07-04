@@ -13,6 +13,11 @@ The analysis covers:
 - CTR, CR, ROI and CPA evaluation across platforms
 - Evaluation of advertising effectiveness
 
+## 🎯 Key Objectives
+
+- Clean and format data for exploratory & diagnostic analysis
+- Create a performance analytical dashboard
+  
 ---
 
 ## 📊 Dataset Overview
@@ -22,7 +27,7 @@ The analysis covers:
 - **Scope:** Cross-channel campaign data from multiple social platforms 
 - **Format:** Cleaned via SQL, visualized via Tableau
 
-## Table Schema
+### Table Schema
 
 | Column Name         | Data Type | Description                                                                |
 |---------------------|-----------|----------------------------------------------------------------------------|
@@ -44,11 +49,9 @@ The analysis covers:
 | `Company`           | TEXT      | Brand or company name                                                      |
 
 ---
+## Data Visualization with Tableau
 
-## 🎯 Key Objectives
-
-- Clean and format data for exploratory & diagnostic analysis
-- Create a performance analytical dashboard
+<img width="968" alt="image" src="https://github.com/user-attachments/assets/66489529-c24e-4c32-a79c-c96c8962d3b1" />
 
 ---
 
@@ -57,11 +60,11 @@ The analysis covers:
 - Instagram and Twitter are top performers: low CPA + high ROI
 - Pinterest underperformed across all metrics (lowest CTR, Conversion Rate, and ROI, with the highest cost) → inefficient channel
 - Facebook is volume-heavy, but less efficient than expected (moderate ROI)
-→ consider reallocating budget to high-performing platforms: Instagram, Twitter
+→ Consider reallocating budget to high-performing platforms: Instagram, Twitter
 
 **2. Campaign Goals**
 - Average CTRs across all goals are very close, suggesting creative/goal type has little impact on CTR
-- Campaigns focused on Brand Awareness and Increase Sales had low Conversion Rate, while trategic goals like Product Launch and Market Expansion converted better despite lower CTR → high conversion quality
+- Campaigns focused on Brand Awareness and Increase Sales had low Conversion Rate, while strategic goals like Product Launch and Market Expansion converted better despite lower CTR → high conversion quality
 
 **3. Audience Analysis**
 - All age groups respond similarly in volume of clicks (35-44 had the highest, followed by 18-24), but Instagram drives the most meaningful engagement with higher engagement score — strong choice for Gen Z and Millennials
@@ -69,7 +72,7 @@ The analysis covers:
 
 **4. Seasonal pattern:**
 - Click activity peaks mid-week (Wed-Thu) and weekend (Sat-Sun) → User engagement is strongest 
-- There may be a seasonal lift in spring, early summer and the end of year, could possibly considered for seasonal promotions
+- There may be a seasonal lift in spring, early summer and the end of year, which could possibly considered for seasonal promotions
 
 **5. Advertising Effectiveness**
 - Channels like Twitter and Instagram drive superior ROAS and revenue
