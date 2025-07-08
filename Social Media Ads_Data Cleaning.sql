@@ -1,7 +1,7 @@
 /*
 Dataset Description:
 This dataset is a comprehensive collection of data related to various social media advertising campaigns. It includes information such as ad impressions, clicks, spend, demographic targeting, and conversion rates. The dataset encompasses multiple social media platforms such as Facebook, Instagram, Pinterest, and Twitter, providing a diverse range of advertising campaign data.
-In this project, only data filtered by a specific company (e.g Cozy Corners, "Home" category) would be gathered for a consistent analysis.
+This project focuses exclusively on the company named Cozy Corner (Home category) to ensure consistency and analytical relevance.
 
 Skills used: Converting Data Types, CTE's, Windows Functions, Aggregate Functions
 
